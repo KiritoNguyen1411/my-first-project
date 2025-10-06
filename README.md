@@ -83,9 +83,6 @@ cd server
 npm run dev
 ```
 
-Mở trình duyệt tại [http://localhost:3000](http://localhost:3000)
-
----
 
 ## 🧠 Hướng phát triển tiếp theo
 
@@ -98,15 +95,15 @@ Mở trình duyệt tại [http://localhost:3000](http://localhost:3000)
 
 ## 👨‍💻 Tác giả
 
-**Nguyễn [Tên bạn]**  
-📧 Email: [email của bạn nếu muốn]  
-🌐 GitHub: [https://github.com/your-username](https://github.com/your-username)
+**Nguyễn Thế Nam**  
+📧 Email: kiritonguyen1411lh@gmail.com  
+🌐 GitHub: https://github.com/KiritoNguyen1411
+
+**Lê Minh Hiếu**
+📧 Email:   
+🌐 GitHub: 
 
 ---
 
-## 🪪 Giấy phép
-Dự án này được phát hành dưới giấy phép **MIT License** — bạn có thể tự do sử dụng và phát triển thêm.
-
----
 
 > 💡 *Shoo — Mua sắm dễ dàng, tiện lợi và nhanh chóng chỉ với một cú click!*
